@@ -167,4 +167,5 @@ confirm wireshark is installed in the servers
 ![](./img/14.1.png)
 ![](./img/14.2.png)
 
+Updated ansible architecture will now take the form
 ![](./img/end.png)
